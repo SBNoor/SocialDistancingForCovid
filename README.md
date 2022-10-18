@@ -16,4 +16,4 @@
 ` ***to run your social distance detection project***
 
 #### After you run the last line of command,a window will pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
-![Output avi gif](https://github.com/SBNoor/Social-distance-detection-for-covid/blob/master/social%20distance%20detection.gif)
+![Output avi gif](https://github.com/SBNoor/SocialDistancingForCovid.git/https://github.com/SBNoor/SocialDistancingForCovid/blob/main/social%20distance%20detection.gif)
